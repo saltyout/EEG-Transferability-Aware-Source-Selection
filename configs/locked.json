@@ -1,0 +1,20 @@
+{
+  "C": 0.01,
+  "pool_seeds": [
+    101,
+    202,
+    303
+  ],
+  "random_source_seeds": [
+    401,
+    502,
+    603
+  ],
+  "pilot_seeds": [
+    701,
+    802,
+    903
+  ],
+  "source_pool": 16,
+  "selected_sources": 4
+}

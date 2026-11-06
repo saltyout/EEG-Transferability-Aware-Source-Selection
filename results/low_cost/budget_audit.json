@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "records": 3420,
+  "unique_labels": 324,
+  "pilot_labels": 192,
+  "selected_overlap": 48,
+  "stability": {
+    "cho2017": {
+      "mean_top4_overlap_across_pilot_seeds": 1.4957264957264957,
+      "full_reference_rho_by_pilot": {
+        "701": 0.4000704911255124,
+        "802": 0.402573535313482,
+        "903": 0.22975620160093216
+      },
+      "full_reference_overlap_by_pilot": {
+        "701": 2.0448717948717947,
+        "802": 2.0128205128205128,
+        "903": 1.6794871794871795
+      }
+    },
+    "physionet": {
+      "mean_top4_overlap_across_pilot_seeds": 1.0925925925925926,
+      "full_reference_rho_by_pilot": {
+        "701": 0.4317637142527213,
+        "802": 0.19868303371672377,
+        "903": 0.20667839889515793
+      },
+      "full_reference_overlap_by_pilot": {
+        "701": 1.6944444444444444,
+        "802": 1.2916666666666667,
+        "903": 1.4444444444444444
+      }
+    }
+  }
+}

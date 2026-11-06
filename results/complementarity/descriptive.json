@@ -1,0 +1,32 @@
+{
+  "cho2017": {
+    "mean_metrics": {
+      "error_disagreement": 0.4785462698449564,
+      "double_fault": 0.22529878137328316,
+      "excess_double_fault": 0.004982367619680444
+    },
+    "descriptive_within_pool_rho": {
+      "quality": 0.15232006197207992,
+      "instability": 0.07435573141986011,
+      "representation_distance": 0.05100052306349117,
+      "error_disagreement": -0.009550828239602457,
+      "double_fault": -0.06712715128498586,
+      "excess_double_fault": 0.03385686761195629
+    }
+  },
+  "physionet": {
+    "mean_metrics": {
+      "error_disagreement": 0.484349492914465,
+      "double_fault": 0.21753917986368165,
+      "excess_double_fault": 0.006216129380525808
+    },
+    "descriptive_within_pool_rho": {
+      "quality": 0.1219769712576266,
+      "instability": -0.01903344581677628,
+      "representation_distance": -0.018155625996990395,
+      "error_disagreement": -0.014422107342699282,
+      "double_fault": -0.04959405471672112,
+      "excess_double_fault": 0.08595941996367379
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "python_compilation": true,
+  "synthetic_end_to_end": true,
+  "synthetic_rows": 357,
+  "raw_or_weight_files": 0,
+  "credentials_or_infrastructure_matches": 0,
+  "original_experiment_files_modified": 0,
+  "scope": "Allowlisted release files; clean single-commit Git history checked after commit"
+}

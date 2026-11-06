@@ -1,0 +1,14 @@
+data/
+weights/
+external/
+outputs/
+*.npz
+*.npy
+*.mat
+*.edf
+*.pth
+*.pt
+*.pem
+.env*
+__pycache__/
+.venv/
