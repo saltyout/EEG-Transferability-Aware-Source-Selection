@@ -1,0 +1,4 @@
+-r requirements-cpu.txt
+mne>=1.6,<2
+torch>=2.2,<3
+einops>=0.8,<1

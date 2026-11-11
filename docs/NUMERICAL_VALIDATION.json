@@ -1,0 +1,40 @@
+{
+  "cho_preprocessing": {
+    "x": true,
+    "y": true,
+    "event": true
+  },
+  "physionet_preprocessing_first32": true,
+  "cho2017_features_first32": {
+    "exact": true,
+    "max_abs": 0.0
+  },
+  "physionet_features_first32": {
+    "exact": true,
+    "max_abs": 0.0
+  },
+  "cho2017_first_target_pool101": {
+    "B": {
+      "new": 48.00000000000001,
+      "archived": 48.00000000000001,
+      "absolute_delta_pp": 0.0
+    },
+    "C720": {
+      "new": 52.0,
+      "archived": 52.0,
+      "absolute_delta_pp": 0.0
+    }
+  },
+  "physionet_first_target_pool101": {
+    "B": {
+      "new": 46.7391304347826,
+      "archived": 46.7391304347826,
+      "absolute_delta_pp": 0.0
+    },
+    "C720": {
+      "new": 51.284584980237156,
+      "archived": 51.28458498023716,
+      "absolute_delta_pp": 7.105427357601002e-15
+    }
+  }
+}

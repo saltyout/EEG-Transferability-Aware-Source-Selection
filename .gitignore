@@ -12,3 +12,11 @@ outputs/
 .env*
 __pycache__/
 .venv/
+
+.pytest_cache/
+*.pyc
+.coverage
+htmlcov/
+*.ckpt
+*.safetensors
+*.key

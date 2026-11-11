@@ -1,0 +1,6482 @@
+[
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R04.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R08.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 7480,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 9140,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S003"
+  },
+  {
+    "file": "S003/S003R12.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S003"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S004/S004R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S004"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R04.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R08.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S007/S007R12.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S007"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S016"
+  },
+  {
+    "file": "S016/S016R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S016"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S020/S020R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S020"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S031"
+  },
+  {
+    "file": "S031/S031R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S031"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S033/S033R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S033"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 860,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 4140,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 5780,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 7420,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 9060,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 10700,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 12340,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 13980,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 15620,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 17260,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 18900,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 20540,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 22180,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R04.edf",
+    "output_start": 23820,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 4120,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 5760,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 10680,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 12320,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 13960,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 15600,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 17240,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 18880,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 20520,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 22160,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R08.edf",
+    "output_start": 23800,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 4120,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 5760,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 10680,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 12320,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 13960,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 15600,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 17240,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 18880,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 20520,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 22160,
+    "label": 0,
+    "subject": "S034"
+  },
+  {
+    "file": "S034/S034R12.edf",
+    "output_start": 23800,
+    "label": 1,
+    "subject": "S034"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S036"
+  },
+  {
+    "file": "S036/S036R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S036"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S040"
+  },
+  {
+    "file": "S040/S040R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S040"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 7480,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 9140,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R04.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 7480,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 9140,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R08.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S057"
+  },
+  {
+    "file": "S057/S057R12.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S057"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S059"
+  },
+  {
+    "file": "S059/S059R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S059"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 7480,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 9140,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R04.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R08.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S061"
+  },
+  {
+    "file": "S061/S061R12.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S061"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S062"
+  },
+  {
+    "file": "S062/S062R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S062"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 4120,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 5760,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 10680,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 12320,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 13960,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 15600,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 17240,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 18880,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 20520,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 22160,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R04.edf",
+    "output_start": 23800,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 2480,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 4120,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 5760,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 10680,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 12320,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 13960,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 15600,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 17240,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 18880,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 20520,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 22160,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R08.edf",
+    "output_start": 23800,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 4120,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 5760,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 10680,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 12320,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 13960,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 15600,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 17240,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 18880,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 20520,
+    "label": 0,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 22160,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S073/S073R12.edf",
+    "output_start": 23800,
+    "label": 1,
+    "subject": "S073"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 2480,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 4120,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 5760,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 7400,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 9040,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 10680,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 12320,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 13960,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 15600,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 17240,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 18880,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 20520,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 22160,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R04.edf",
+    "output_start": 23800,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 4120,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 5760,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 7400,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 9040,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 10680,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 12320,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 13960,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 15600,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 17240,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 18880,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 20520,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 22160,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R08.edf",
+    "output_start": 23800,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 2480,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 4120,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 5760,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 7400,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 9040,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 10680,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 12320,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 13960,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 15600,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 17240,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 18880,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 20520,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 22160,
+    "label": 0,
+    "subject": "S076"
+  },
+  {
+    "file": "S076/S076R12.edf",
+    "output_start": 23800,
+    "label": 1,
+    "subject": "S076"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S077"
+  },
+  {
+    "file": "S077/S077R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S077"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S081/S081R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S081"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S085/S085R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S085"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R04.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S089"
+  },
+  {
+    "file": "S089/S089R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S089"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 13940,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 15580,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R08.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 7380,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 9020,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 10660,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 12300,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S099/S099R12.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S099"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R04.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R08.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 14120,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 15780,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S101/S101R12.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S101"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 840,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 2500,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 10800,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 12460,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R04.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 4160,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 5820,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 7480,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 9140,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 17440,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 19100,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 20760,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 22420,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R08.edf",
+    "output_start": 24080,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 840,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 2500,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 4160,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 5820,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 7480,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 9140,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 10800,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 12460,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 14120,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 15780,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 17440,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 19100,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 20760,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 22420,
+    "label": 0,
+    "subject": "S103"
+  },
+  {
+    "file": "S103/S103R12.edf",
+    "output_start": 24080,
+    "label": 1,
+    "subject": "S103"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 820,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 2460,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 20500,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 22140,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R04.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 4100,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 5740,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 17220,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 18860,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R08.edf",
+    "output_start": 23780,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 820,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 2460,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 4100,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 5740,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 7380,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 9020,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 10660,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 12300,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 13940,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 15580,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 17220,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 18860,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 20500,
+    "label": 1,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 22140,
+    "label": 0,
+    "subject": "S108"
+  },
+  {
+    "file": "S108/S108R12.edf",
+    "output_start": 23780,
+    "label": 0,
+    "subject": "S108"
+  }
+]
