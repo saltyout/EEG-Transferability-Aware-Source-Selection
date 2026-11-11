@@ -1,8 +1,1 @@
-numpy==2.4.6
-scipy==1.17.1
-pandas==3.0.6
-scikit-learn==1.9.1
-matplotlib==3.11.2
-mne==1.13.2
-torch==2.8.0
-einops==0.8.2
+-r requirements-cpu.txt

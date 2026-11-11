@@ -1,0 +1,6 @@
+{
+  "tracked_files": 57,
+  "history_blobs": 39,
+  "findings": [],
+  "scope": "Tracked working files and all reachable history blobs; pattern scan is not a guarantee of absence of sensitive information"
+}
