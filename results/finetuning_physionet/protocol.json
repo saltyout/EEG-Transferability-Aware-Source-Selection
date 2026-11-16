@@ -1,0 +1,35 @@
+{
+  "dataset": "physionet",
+  "subjects": 24,
+  "pool_seed": 101,
+  "model_seeds": [
+    17,
+    29,
+    43
+  ],
+  "random_source_seed": 401,
+  "steps": 200,
+  "batch_size": 32,
+  "encoder_lr": 1e-05,
+  "head_lr": 0.001,
+  "optimizer": "AdamW",
+  "weight_decay": 0.01,
+  "clip": 1,
+  "precision": "float32",
+  "trainable": "all encoder parameters except replaced proj_out",
+  "head": "Linear2400->2; fixed source-only frozen-feature standardization",
+  "selection": "historical frozen source-pool matrix; no reranking",
+  "evaluation": "final step only, no early stopping",
+  "arms": [
+    "selected180",
+    "random180",
+    "all180",
+    "all720"
+  ],
+  "paired_controls": [
+    "frozen",
+    "finetuned"
+  ],
+  "scope": "exploratory single-pool development experiment; not final confirmation",
+  "E_accessed": false
+}

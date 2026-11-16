@@ -31,5 +31,23 @@
   ],
   "center_development": [
     "results/center_development/summary.json"
+  ],
+  "finetuning_physionet": [
+    "results/finetuning_physionet/summary.json",
+    "results/finetuning_physionet/protocol.json",
+    "results/finetuning_physionet/scores.csv",
+    "results/finetuning_physionet/subject_differences.csv"
+  ],
+  "finetuning_cho2017_interim": [
+    "results/finetuning_cho2017_interim/summary.json",
+    "results/finetuning_cho2017_interim/protocol.json",
+    "results/finetuning_cho2017_interim/scores.csv",
+    "results/finetuning_cho2017_interim/subject_differences.csv"
+  ],
+  "finetuning_cho2017": [
+    "results/finetuning_cho2017/summary.json",
+    "results/finetuning_cho2017/protocol.json",
+    "results/finetuning_cho2017/scores.csv",
+    "results/finetuning_cho2017/subject_differences.csv"
   ]
 }
