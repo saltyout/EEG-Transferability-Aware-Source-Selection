@@ -9,4 +9,6 @@
 - center_development — [summary.json](../results/center_development/summary.json)
 
 - finetuning_physionet: [complete summary](../results/finetuning_physionet/summary.json), 576 fits / 24 targets.
-- finetuning_cho2017_interim: [INTERIM snapshot](../results/finetuning_cho2017_interim/summary.json), 765/1248 fits; only 11 fully paired targets contribute means. Not final replication evidence.
+- finetuning_cho2017_interim: [INTERIM snapshot](../results/finetuning_cho2017_interim/summary.json), 765/1248 fits; only 11 fully paired targets contribute means. Superseded historical snapshot; do not use as the final result.
+
+- finetuning_cho2017: [COMPLETE final summary](../results/finetuning_cho2017/summary.json), [protocol](../results/finetuning_cho2017/protocol.json), [all scores](../results/finetuning_cho2017/scores.csv), [subject differences](../results/finetuning_cho2017/subject_differences.csv); 1248 fits / 52 targets.

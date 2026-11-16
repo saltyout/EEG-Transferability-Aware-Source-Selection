@@ -1,6 +1,6 @@
 # Fixed-budget fine-tuning follow-up
 
-PhysioNet: COMPLETE, 576 fits, 24 targets. Cho2017: INTERIM, 765/1248 fits, 11 complete targets. This release does not alter running jobs. Original results and No-Go controls remain unchanged.
+PhysioNet: COMPLETE, 576 fits, 24 targets. Cho2017: COMPLETE, 1,248 fits, 52 targets. All four workers in each dataset completed; saved predictions, paired indices and summary arithmetic were checked. Original results and No-Go controls remain unchanged. The older Cho interim directory is retained as a superseded historical snapshot.
 
 ## Protocol
 
@@ -24,3 +24,15 @@ The portable runner checks checkpoint/revision, shapes, epoch alignment and reco
 ## Boundaries
 
 200 steps give approximately 35.6 sampled exposures per trial for 180 labels, 8.9 for 720. All720 may be undertrained; no superiority over a converged full-source model is established. Only one source-pool/random-selection seed was used. Three training seeds do not replace source-pool replication. Bootstrap averages seeds within target first and is descriptive. Interim summaries use fully paired targets only and omit intervals; ordered early completion is not a representative population sample. This frozen head is not the historical sklearn logistic regression. E remains sealed. Cho already has development history.
+
+## Complete results
+
+| Contrast (pp) | PhysioNet mean [descriptive 95% interval] | Cho2017 mean [descriptive 95% interval] |
+|---|---|---|
+| Selected: tuned minus frozen | 6.92 [3.72, 9.77] | 2.33 [1.24, 3.37] |
+| Tuned selected minus tuned random | 4.53 [1.67, 7.54] | 2.16 [0.72, 3.83] |
+| Tuned selected minus tuned All180 | 8.44 [5.60, 11.28] | 2.60 [1.64, 3.60] |
+| Tuned selected minus tuned All720 | 5.45 [2.92, 8.18] | 6.03 [4.21, 8.04] |
+| Change in selected-minus-random advantage | 0.49 [-2.52, 3.59] | -1.21 [-2.85, 0.30] |
+
+The intervals average three training seeds within each target before 20,000 target-bootstrap draws, seed 20261116. They are conditional on the fixed source pool/trial banks. Selected-source tuning improves 21/24 and 40/52 targets; tuned selection beats random for 16/24 and 33/52 targets. All720 tuning improves only 11/52 Cho targets. No mechanism or reduced-cost claim is established.

@@ -43,5 +43,11 @@
     "results/finetuning_cho2017_interim/protocol.json",
     "results/finetuning_cho2017_interim/scores.csv",
     "results/finetuning_cho2017_interim/subject_differences.csv"
+  ],
+  "finetuning_cho2017": [
+    "results/finetuning_cho2017/summary.json",
+    "results/finetuning_cho2017/protocol.json",
+    "results/finetuning_cho2017/scores.csv",
+    "results/finetuning_cho2017/subject_differences.csv"
   ]
 }

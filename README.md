@@ -73,11 +73,20 @@ The example validates computation only; its scores are **not EEG evidence**. Out
 
 ## Exploratory fine-tuning follow-up
 
-A fixed-200-step follow-up compares full encoder fine-tuning against a frozen encoder with the same AdamW-trained linear head, not the historical logistic-regression readout above. PhysioNet is complete: selected-source BA increases from 63.37% to 70.29%; fine-tuned selection exceeds random selection by 4.53 pp. The selection advantage itself increases by only 0.49 pp, with a descriptive interval spanning zero.
+Both datasets have completed the fixed-200-step follow-up: **576 PhysioNet fits and 1,248 Cho2017 fits**. Each data arm compares a frozen encoder with full encoder fine-tuning, using the same AdamW-trained linear head. This differs from the historical logistic-regression readout above.
 
-Cho2017 is **still running**. The archived interim snapshot covers 11 fully paired targets only, not a completed cross-dataset replication. All720 fine-tuning deteriorates in this subset; the negative signal is retained. Fixed updates expose each 180-label trial more often than each 720-label trial, so convergence is not established. Annotation cost remains 720 for transfer selection.
+| Data arm | PhysioNet frozen | PhysioNet tuned | Cho2017 frozen | Cho2017 tuned |
+|---|---:|---:|---:|---:|
+| Transfer-selected 180 | 63.37 | **70.29** | 60.07 | **62.39** |
+| Random 180 | 59.34 | 65.76 | 56.69 | 60.23 |
+| All-source 180 | 58.27 | 61.85 | 58.86 | 59.80 |
+| All-source 720 | 63.80 | 64.84 | 61.09 | 56.36 |
 
-See [fine-tuning commands and limitations](docs/FINETUNING.md).
+Fine-tuned selection exceeds fine-tuned random selection by **4.53 pp** on PhysioNet and **2.16 pp** on Cho2017. Selected-source tuning improves its paired frozen baseline by 6.92 / 2.33 pp. This supports persistence of the selection advantage under adaptation, not an extra interaction benefit: the selection-minus-random gap changes by +0.49 / -1.21 pp, with both descriptive intervals spanning zero.
+
+All720 tuning falls by **4.72 pp on Cho2017**; this negative result is retained. Fixed 200 updates expose each 180-label trial about 35.6 times and each 720-label trial about 8.9 times. No claim is made about convergence or superiority over fully trained all-source models. Only one source-pool seed and one random-selection seed were tested with three training seeds. Selection still costs **720 unique source labels**.
+
+See [final fine-tuning protocol and commands](docs/FINETUNING.md) and [result index](docs/RESULTS.md). The older Cho2017 interim snapshot remains archived for traceability and is superseded by the complete results.
 
 ## Repository map
 
