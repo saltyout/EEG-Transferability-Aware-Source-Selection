@@ -55,9 +55,12 @@ def main():
     p.add_argument("--cbramod",type=Path,required=True)
     p.add_argument("--weights",type=Path,required=True)
     p.add_argument("--output",type=Path,required=True)
+    p.add_argument("--epochs-output",type=Path,help="Optional aligned EEG epoch NPZ for fine-tuning")
     p.add_argument("--device",default="cpu")
     p.add_argument("--precision",choices=["fp32","bf16"],default="fp32")
     a = p.parse_args()
+    if a.epochs_output and (a.epochs_output.exists() or a.epochs_output.suffix != ".npz" or a.epochs_output.resolve()==a.output.resolve()):
+        p.error("--epochs-output must be a new separate .npz file")
     if a.output.suffix != ".npz":
         p.error("--output must end in .npz")
     if a.output.exists() or a.output.with_suffix(".json").exists():
@@ -115,6 +118,9 @@ def main():
     from reproduce import validate_features
     validate_features(x,y,subjects,bank)
     a.output.parent.mkdir(parents=True,exist_ok=True)
+    if a.epochs_output:
+        a.epochs_output.parent.mkdir(parents=True,exist_ok=True)
+        np.savez(a.epochs_output,x=epochs,y=y,subjects=subjects)
     np.savez(a.output,X=x,y=y,subjects=subjects,bank_indices=bank)
     a.output.with_suffix(".json").write_text(json.dumps(dict(dataset=a.dataset,checkpoint_sha256=digest,code_revision=revision,precision=a.precision,device=a.device,manifest_sha256=hashlib.sha256(a.manifest.read_bytes()).hexdigest() if a.manifest else None,subjects=len(np.unique(subjects)),trials=len(y),features=x.shape[1],historical_numeric_parity="not yet established"),indent=2))
 

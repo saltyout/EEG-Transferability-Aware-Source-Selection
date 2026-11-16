@@ -7,3 +7,6 @@
 - full_source_weighting — [summary.json](../results/full_source_weighting/summary.json), [cho2017_subjects.csv](../results/full_source_weighting/cho2017_subjects.csv), [physionet_subjects.csv](../results/full_source_weighting/physionet_subjects.csv)
 - center_new_development — [audit.json](../results/center_new_development/audit.json), [summary.json](../results/center_new_development/summary.json), [subject_means.csv](../results/center_new_development/subject_means.csv)
 - center_development — [summary.json](../results/center_development/summary.json)
+
+- finetuning_physionet: [complete summary](../results/finetuning_physionet/summary.json), 576 fits / 24 targets.
+- finetuning_cho2017_interim: [INTERIM snapshot](../results/finetuning_cho2017_interim/summary.json), 765/1248 fits; only 11 fully paired targets contribute means. Not final replication evidence.

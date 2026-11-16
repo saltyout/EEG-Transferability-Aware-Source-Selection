@@ -71,6 +71,14 @@ The example validates computation only; its scores are **not EEG evidence**. Out
 
 **Validation boundary:** real-data spot checks reproduced preprocessing and the first 32 frozen features in each dataset exactly, and selected/full-source BA in one target/pool per dataset to floating-point precision. The complete newly assembled extraction CLI and every historical fold have not been rerun. CPU FP32 inference is a supported reference mode, not asserted identical to historical CUDA BF16. See [numerical validation](docs/NUMERICAL_VALIDATION.json) and [code review](docs/CODE_REVIEW.md).
 
+## Exploratory fine-tuning follow-up
+
+A fixed-200-step follow-up compares full encoder fine-tuning against a frozen encoder with the same AdamW-trained linear head, not the historical logistic-regression readout above. PhysioNet is complete: selected-source BA increases from 63.37% to 70.29%; fine-tuned selection exceeds random selection by 4.53 pp. The selection advantage itself increases by only 0.49 pp, with a descriptive interval spanning zero.
+
+Cho2017 is **still running**. The archived interim snapshot covers 11 fully paired targets only, not a completed cross-dataset replication. All720 fine-tuning deteriorates in this subset; the negative signal is retained. Fixed updates expose each 180-label trial more often than each 720-label trial, so convergence is not established. Annotation cost remains 720 for transfer selection.
+
+See [fine-tuning commands and limitations](docs/FINETUNING.md).
+
 ## Repository map
 
 - `scripts/prepare_features.py`, `download_physionet.py`: raw-data preparation and frozen inference.
